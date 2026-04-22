@@ -314,6 +314,11 @@ http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9hzoiMK.png", HBO Signature HD
 https://hls.iill.top/api/HBO-Signature/index.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/i9ObQQp.png", Outdoor Channel HD
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 
