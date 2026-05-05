@@ -357,36 +357,35 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO Asia HD
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO Asia HD
-https://hls.iill.top/api/HBO/index.m3u8
+https://cdn-1.ttvb.eu.org/api/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits Asia HD
 http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits Asia HD
-https://hls.iill.top/api/HBO-Hits/index.m3u8
+https://cdn-1.ttvb.eu.org/api/HBO-Hits/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qw1cLUk.png", HBO Family Asia HD
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9hzoiMK.png", HBO Signature Asia HD
-https://hls.iill.top/api/HBO-Signature/index.m3u8
+https://cdn-1.ttvb.eu.org/api/HBO-Signature/index.m3u8
+
 
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
-https://hls.iill.top/api/Spotv-1/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
-https://hls.iill.top/api/Spotv-2/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/i9ObQQp.png", Outdoor Channel HD
 https://vietanh18h1.duckdns.org/tv360/216/index.m3u8
