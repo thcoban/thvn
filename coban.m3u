@@ -28,6 +28,8 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD [Geo-blocked]
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=653c50b221f6cd9a096ddbdacb741944
@@ -127,6 +129,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=151
 
 
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1 [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
 
@@ -135,8 +139,13 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/CujLGyG.png" , HTV2 (Vie Channel)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=191
 
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3 [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
+
+#EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV Key [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV Key
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
 
@@ -170,6 +179,8 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/0JpfwMC.png" , HTVC Thuần Việt
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=13
 
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/1PfYLy1.png" , HTVC Movie [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/1PfYLy1.png" , HTVC Movie
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15
 
@@ -178,6 +189,8 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/zELL2QC.png" , HTVC Music
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=14
 
+#EXTINF:-1 tvg-id="htvcplushd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/LA8U1Mg.png" , HTVC+ [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/LA8U1Mg.png" , HTVC+
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=132
 
@@ -198,34 +211,34 @@ https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/a2S7U0q.png", SCTV6 [Geo-blocked]
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/a2S7U0q.png", SCTV6
-https://liveh34.vtvprime.vn/hls/SCTV6/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/a2S7U0q.png", SCTV6 [off]
+https://liveh34byt.vtvprime.vn/hls/SCTV6/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/Ix5jsUd.png", SCTV7
+#EXTINF:-1 tvg-id="sctv7hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/Ix5jsUd.png", SCTV7 [off]
 https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/hufYFYh.png", SCTV8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/hufYFYh.png", SCTV8 [off]
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
 #EXTINF:-1 tvg-id="sctv10hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/5taJtYB.png", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/KtceuNK.png", SCTV11
+#EXTINF:-1 tvg-id="sctv11hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/KtceuNK.png", SCTV11 [off]
 https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/0fcrBsd.png", SCTV12
+#EXTINF:-1 tvg-id="sctv12hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/0fcrBsd.png", SCTV12 [off]
 https://liveh34.vtvprime.vn/hls/SCTV12/index.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/W8aGHJq.png", SCTV13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/W8aGHJq.png", SCTV13 [off]
 https://liveh34.vtvprime.vn/hls/SCTV13/index.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/6x4mm7T.png", SCTV14 Kênh Phim Việt
+#EXTINF:-1 tvg-id="sctv14hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/6x4mm7T.png", SCTV14 Kênh Phim Việt [off]
 https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/xv0z7cl.png", SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/xv0z7cl.png", SCTV16 [off]
 https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
-#EXTINF:-1 tvg-id="sctv18hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2IbnLlh.png", SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/2IbnLlh.png", SCTV18 [off]
 https://liveh34.vtvprime.vn/hls/SCTV18/index.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/6UFCsX5.png", SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/6UFCsX5.png", SCTV19 [off]
 https://liveh34.vtvprime.vn/hls/SCTV19/index.m3u8
-#EXTINF:-1 tvg-id="sctv20hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/WXxTqqC.png", SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/WXxTqqC.png", SCTV20 [off]
 https://liveh34.vtvprime.vn/hls/SCTV20/index.m3u8
-#EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21
+#EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 [off]
 https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/SyrSM3W.png", SCTV22 Sport
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/SyrSM3W.png", SCTV22 Sport [off]
 https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/T9pObwC.png", SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
