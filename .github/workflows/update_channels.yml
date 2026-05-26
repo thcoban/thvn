@@ -56,16 +56,14 @@ jobs:
       - name: Download, get & convert links to M3U8 files
         run: |
           if [ -f get_vnchannel.py ]; then
-            python get_vnchannel.py vtv1_hd
-            # python get_vnchannel.py vtv5_hd
-            # python get_vnchannel.py vietnam_today
+            python get_vnchannel.py
+            
+            # python get_vnchannel.py vtv1_hd
             # python get_vnchannel.py vie_channel_htv2_hd
-            python get_vnchannel.py htv7_hd
-            python get_vnchannel.py htv9_hd
+            # python get_vnchannel.py htv7_hd
+            # python get_vnchannel.py htv9_hd
             # python get_vnchannel.py htv_the_thao
             # python get_vnchannel.py thvl1_hd
-            # python get_vnchannel.py thvl2_hd
-            # python get_vnchannel.py thvl3_hd
           fi
           wait
           
