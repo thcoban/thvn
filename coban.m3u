@@ -6,9 +6,9 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
-https://raw.githubusercontent.com/thcoban/thvn/main/vtv1hd.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv1hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
@@ -154,19 +154,23 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7 [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7
-https://raw.githubusercontent.com/thcoban/thvn/main/htv7hd.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=193
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/htv7hd.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9 [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=194
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/htv9hd.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/ky6gedh.png" , HTV THỂ THAO [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/ky6gedh.png" , HTV THỂ THAO
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=195
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/ky6gedh.png" , HTV THỂ THAO (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/htvthethao.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/HKoTYT4.png" , HTVC GIA ĐÌNH [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
@@ -278,26 +282,36 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/r6IbnRN.png", THVL1 - TH Vĩnh Long 1
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=25
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/r6IbnRN.png", THVL1 - TH Vĩnh Long 1 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/g326arg.png", THVL2 - TH Vĩnh Long 2 [Geo-blocked]
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/g326arg.png", THVL2 - TH Vĩnh Long 2
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=26
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/g326arg.png", THVL2 - TH Vĩnh Long 2 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3 [Geo-blocked]
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=219
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4 [Geo-blocked]
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=220
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/Kmn6jJw.png", THVL5 - TH Vĩnh Long 5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/Kmn6jJw.png", THVL5 - TH Vĩnh Long 5
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=91
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/Kmn6jJw.png", THVL5 - TH Vĩnh Long 5 (test)
+https://raw.githubusercontent.com/thcoban/thvn/main/travinh1.m3u8
 
 
 #EXTINF:-1 tvg-id="quangninh1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/0sovnmW.png" , QTV1 - TH Quảng Ninh 1
