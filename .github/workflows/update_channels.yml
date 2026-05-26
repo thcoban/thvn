@@ -49,6 +49,7 @@ jobs:
       - name: Download file via curl
         run: |
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o get_vnchannel.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/get_vnchannel.py  & 
+          curl -L -o phimbotvb.m3u ${{ secrets.URL_TVB }}  &  
           
           wait
           ls -lh
