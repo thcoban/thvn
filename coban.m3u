@@ -154,6 +154,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7 [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7
+https://raw.githubusercontent.com/thcoban/thvn/main/htv7hd.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=193
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9 [Geo-blocked]
