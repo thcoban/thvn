@@ -22,7 +22,7 @@ concurrency:
   cancel-in-progress: true
   
 jobs:
-  merge-commit-and-deploy:
+  update-channels-and-commit:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
