@@ -290,21 +290,21 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/g326arg.png", THVL2 - TH Vĩnh Long 2
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=26
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/g326arg.png", THVL2 - TH Vĩnh Long 2 (test)
-https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl2hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3 [Geo-blocked]
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=219
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/qMjSouE.png", THVL3 - TH Vĩnh Long 3 (test)
-https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl3hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4 [Geo-blocked]
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=220
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/9XL9vSE.png", THVL4 - TH Vĩnh Long 4 (test)
-https://raw.githubusercontent.com/thcoban/thvn/main/thvl1hd.m3u8
+https://raw.githubusercontent.com/thcoban/thvn/main/thvl4hd.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/Kmn6jJw.png", THVL5 - TH Vĩnh Long 5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
