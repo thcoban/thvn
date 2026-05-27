@@ -33,9 +33,9 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD [Geo-blocked]
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=653c50b221f6cd9a096ddbdacb741944
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nMc1PyR.png" , VTV5 Tây Nguyên HD [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
