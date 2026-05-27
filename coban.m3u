@@ -14,16 +14,16 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=a467ce7cbb16d9d5db19e15f64685e8a&token=653c50b221f6cd9a096ddbdacb741944
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
