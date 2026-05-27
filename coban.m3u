@@ -78,13 +78,15 @@ https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [test]
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [test]
 https://raw.githubusercontent.com/thcoban/thvn/main/vtv1hd.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
+http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 
