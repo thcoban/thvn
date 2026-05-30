@@ -6,7 +6,7 @@ on:
   # push:  
   workflow_call:
   schedule:
-    - cron: "18 9 * * *"
+    - cron: "18 9 */2 * *"
     
   workflow_dispatch: # Allows you to run the action manually for testing
   
