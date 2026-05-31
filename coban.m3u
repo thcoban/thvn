@@ -166,7 +166,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=151
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1 [🇻🇳]
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1 [test]
-https://raw.githubusercontent.com/thcoban/thvn/main/htv1hd.m3u8
+https://raw.githubusercontent.com/thcoban/thvn/main/htv1.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
 
@@ -181,12 +181,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=191
 #EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3 [🇻🇳]
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3 [test]
-https://raw.githubusercontent.com/thcoban/thvn/main/htv3hd.m3u8
+https://raw.githubusercontent.com/thcoban/thvn/main/htv3.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
 
 #EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV4 Key [🇻🇳]
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV4 Key [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/htvkey.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV4 Key
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
 
