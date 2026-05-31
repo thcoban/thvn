@@ -24,8 +24,6 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD (test only)
-https://raw.githubusercontent.com/thcoban/thvn/refs/heads/main/test.m3u
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
