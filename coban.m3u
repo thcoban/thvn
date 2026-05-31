@@ -27,6 +27,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv4hd.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
 
@@ -53,22 +55,30 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv7hd.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/GiTynXm.png" , VTV8 HD [🇻🇳]
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/GiTynXm.png" , VTV8 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv8hd.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/GiTynXm.png" , VTV8 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv9hd.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 
-#EXTINF:-1 tvg-id="vtvcantho" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1baXl6q.png" , VTV10 HD [🇻🇳]
+#EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1baXl6q.png" , VTV10 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1baXl6q.png" , VTV10 HD
+#EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1baXl6q.png" , VTV10 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv10hd.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1baXl6q.png" , VTV10 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today [🇻🇳]
