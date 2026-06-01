@@ -301,6 +301,27 @@ https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/T9pObwC.png", SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
+#EXTINF:-1 tvg-id="sctv20hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/WXxTqqC.png", SCTV20 [🇻🇳]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57a515c8bff648f2b6c1286245d784ad:5741ebac27fb4285b0946293cd4be13a
+https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
+
+#EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 [🇻🇳]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25633622dd314f82a35fc1791b0d25c1:73718578146e43e4a9ff6d1f5e56650f
+https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/SyrSM3W.png", SCTV22 Sport [🇻🇳]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+
 
 #EXTINF:-1 tvg-id="360phimviet" group-title="Rạp phim" tvg-logo="https://i.imgur.com/1mxcq86.png" , 360 Phim Việt
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
