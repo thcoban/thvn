@@ -323,7 +323,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
 
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 (hq) [🇻🇳]
-url=https://hoiquan.dpdns.org/VTVGo/?sctv21
+https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 (hq)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv21
 #https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
