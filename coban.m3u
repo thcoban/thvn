@@ -360,7 +360,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:content-type=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd|Content-Type=application/dash+xml
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/T9pObwC.png", SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
