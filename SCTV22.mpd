@@ -7,10 +7,6 @@
         <SegmentTimeline>
           <S t="3603657551413333" d="19840000" />
           <S d="20053333" />
-          <S d="20053334" />
-          <S d="20053333" />
-          <S d="19840000" />
-          <S d="20053333" />
         </SegmentTimeline>
       </SegmentTemplate>
       <Representation id="mp4a_96000=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
