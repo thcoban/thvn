@@ -14,14 +14,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD (hoa)
 http://hoatv001.ddns.net/iptv/admin.php?stream=a467ce7cbb16d9d5db19e15f64685e8a&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD (hoa)
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
@@ -35,21 +35,21 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD [🇻🇳]
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD (hoa)
 http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/OqhEFSa.png" , VTV5 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nMc1PyR.png" , VTV5 Tây Nguyên HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nMc1PyR.png" , VTV5 Tây Nguyên HD
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nMc1PyR.png" , VTV5 Tây Nguyên HD (vir)
 https://virtual.anbox.dpdns.org/resolve?session=144bbc6f-da72-45ef-8e5f-1bfc7e52dc7e&src=aHR0cHM6Ly9saXZlaDEyLnZ0dnByaW1lLnZuL2hscy9WVFY1X1ROL2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nMc1PyR.png" , VTV5 Tây Nguyên HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=207
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/hGuonYt.png" , VTV5 Tây Nam Bộ HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/hGuonYt.png" , VTV5 Tây Nam Bộ HD
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/hGuonYt.png" , VTV5 Tây Nam Bộ HD (vir)
 https://virtual.anbox.dpdns.org/resolve?session=144bbc6f-da72-45ef-8e5f-1bfc7e52dc7e&src=aHR0cHM6Ly9saXZlaDEyLnZ0dnByaW1lLnZuL2hscy9WVFY1X1ROQi9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/hGuonYt.png" , VTV5 Tây Nam Bộ HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
@@ -93,7 +93,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today (vps)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [🇻🇳]
@@ -105,14 +105,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD (hoa)
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/IPrb0DY.png" , ANTV [🇻🇳]
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/IPrb0DY.png" , ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/IPrb0DY.png" , ANTV (vir)
 https://virtual.anbox.dpdns.org/resolve?session=144bbc6f-da72-45ef-8e5f-1bfc7e52dc7e&src=aHR0cHM6Ly9saXZlaDEyLnZ0dnByaW1lLnZuL2hscy9BTk5JTkhUVi9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/IPrb0DY.png" , ANTV
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=20
@@ -126,7 +126,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=19
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/vLlrAKL.png" , VietNam Today (vps)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
 
 
@@ -246,7 +246,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/zELL2QC.png" , HTVC Music [🇻🇳]
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/zELL2QC.png" , HTVC Music
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/zELL2QC.png" , HTVC Music (vir)
 https://virtual.anbox.dpdns.org/resolve?session=144bbc6f-da72-45ef-8e5f-1bfc7e52dc7e&src=aHR0cHM6Ly9saXZlaDEyLnZ0dnByaW1lLnZuL2hscy9IVFZDQ0FOSEFDL2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/zELL2QC.png" , HTVC Music
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=14
@@ -264,10 +264,12 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=133
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/kKmGnM0.png", SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/bbE9hXE.png", SCTV2 Today TV
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/bbE9hXE.png", SCTV2 Today TV (vps)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/bbE9hXE.png", SCTV2 Today TV
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/0harWjf.png", SCTV3
 https://liveh34.vtvprime.vn/hls/SCTV3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/b8BQLzj.png", SCTV4
@@ -332,7 +334,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
 #EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 (hq) [🇻🇳]
 https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 (hq)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv21
 #https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/JWEyB5A.png", SCTV21 (p) [🇻🇳]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -359,7 +360,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv22
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/SyrSM3W.png" tvg-content-type="application/dash+xml" , SCTV22 Sport [test]
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/SyrSM3W.png" tvg-content-type="application/dash+xml" , SCTV22 Sport [🇻🇳]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -367,7 +368,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:content-type=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/T9pObwC.png", SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
