@@ -54,6 +54,13 @@ https://virtual.anbox.dpdns.org/resolve?session=144bbc6f-da72-45ef-8e5f-1bfc7e52
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/hGuonYt.png" , VTV5 Tây Nam Bộ HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1oUN0N2.png" , VTV6 HD [🇻🇳]
+https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1oUN0N2.png" , VTV6 HD [test]
+https://raw.githubusercontent.com/thcoban/thvn/main/vtv6hd.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/1oUN0N2.png" , VTV6 HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [test]
