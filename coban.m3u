@@ -67,6 +67,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD (hoa)
+http://hoatv001.ddns.net/iptv/admin.php?stream=42e2054e352f72c8d38440ad7839bae9&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD [test]
 https://raw.githubusercontent.com/thcoban/thvn/main/vtv7hd.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/gyaHQcE.png" , VTV7 HD
@@ -81,6 +83,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD [🇻🇳]
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD (hoa)
+http://hoatv001.ddns.net/iptv/admin.php?stream=141897d8b9675ec09dd5760305270872&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD [test]
 https://raw.githubusercontent.com/thcoban/thvn/main/vtv9hd.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/v47Fdcy.png" , VTV9 HD
@@ -102,6 +106,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [🇻🇳]
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD (hoa)
+http://hoatv001.ddns.net/iptv/admin.php?stream=3745de5f4b70afd38ba39e850fe055f7&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD [test]
 https://raw.githubusercontent.com/thcoban/thvn/main/vtv1hd.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
