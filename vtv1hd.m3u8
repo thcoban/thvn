@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,URI="https://livecdn-vthcm-bp.vieon.vn/9457683f16aaf678d5ca3fce57cdde85/1782130193000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-a1/index.fmp4.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,URI="https://livecdn-vthcm-bp.vieon.vn/fd41550911732d680f587153f3fd0f04/1782304102000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-a1/index.fmp4.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1350000,AVERAGE-BANDWIDTH=1090000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=854x480,AUDIO="aac",CLOSED-CAPTIONS=NONE,FRAME-RATE=25.000
-https://livecdn-vthcm-bp.vieon.vn/9457683f16aaf678d5ca3fce57cdde85/1782130193000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v3/index.fmp4.m3u8
+https://livecdn-vthcm-bp.vieon.vn/fd41550911732d680f587153f3fd0f04/1782304102000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v3/index.fmp4.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2400000,AVERAGE-BANDWIDTH=1930000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aac",CLOSED-CAPTIONS=NONE,FRAME-RATE=25.000
-https://livecdn-vthcm-bp.vieon.vn/9457683f16aaf678d5ca3fce57cdde85/1782130193000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v2/index.fmp4.m3u8
+https://livecdn-vthcm-bp.vieon.vn/fd41550911732d680f587153f3fd0f04/1782304102000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v2/index.fmp4.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4880000,AVERAGE-BANDWIDTH=3910000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="aac",CLOSED-CAPTIONS=NONE,FRAME-RATE=25.000
-https://livecdn-vthcm-bp.vieon.vn/9457683f16aaf678d5ca3fce57cdde85/1782130193000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-bp.vieon.vn/fd41550911732d680f587153f3fd0f04/1782304102000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v1/index.fmp4.m3u8
